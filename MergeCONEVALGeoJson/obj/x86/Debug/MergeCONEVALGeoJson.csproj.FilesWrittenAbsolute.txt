@@ -1,0 +1,7 @@
+/Users/eherrador/Projects/MergeCONEVALGeoJson/MergeCONEVALGeoJson/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/eherrador/Projects/MergeCONEVALGeoJson/MergeCONEVALGeoJson/bin/Debug/Newtonsoft.Json.dll
+/Users/eherrador/Projects/MergeCONEVALGeoJson/MergeCONEVALGeoJson/bin/Debug/GeoJSON.Net.dll
+/Users/eherrador/Projects/MergeCONEVALGeoJson/MergeCONEVALGeoJson/bin/Debug/MergeCONEVALGeoJson.exe.mdb
+/Users/eherrador/Projects/MergeCONEVALGeoJson/MergeCONEVALGeoJson/bin/Debug/MergeCONEVALGeoJson.exe
+/Users/eherrador/Projects/MergeCONEVALGeoJson/MergeCONEVALGeoJson/obj/x86/Debug/MergeCONEVALGeoJson.exe
+/Users/eherrador/Projects/MergeCONEVALGeoJson/MergeCONEVALGeoJson/obj/x86/Debug/MergeCONEVALGeoJson.exe.mdb
