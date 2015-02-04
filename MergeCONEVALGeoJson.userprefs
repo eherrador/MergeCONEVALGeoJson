@@ -2,13 +2,11 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="MergeCONEVALGeoJson/Program.cs">
     <Files>
-      <File FileName="MergeCONEVALGeoJson/Program.cs" Line="3" Column="3" />
+      <File FileName="MergeCONEVALGeoJson/Program.cs" Line="4" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/eherrador/Projects/MergeCONEVALGeoJson/MergeCONEVALGeoJson/Program.cs" line="48" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
